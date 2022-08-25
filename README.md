@@ -51,5 +51,3 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-Feito em conjunto com a Rocketseat no evento Next Level Week.
